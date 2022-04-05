@@ -1,3 +1,3 @@
-<QuickControl>[快速基本库]{
+(QuickControl)快速基本库{
   
 }
